@@ -1,0 +1,50 @@
+1. What is shell in Linux? Explain the following shell commands.       
+a. date    
+b. cal   
+c. mkdir 
+d.cp  
+    
+2. What is the Linux File system? Elaborate following file permission in Linux with syntax and purpose-    
+1. Read  
+2. Write 
+3.Exceute        
+                       
+3. Perform & write the steps to install SAMBA Server.      
+
+4. What is Linux "ls” command ? Explain following Linux ls command options/attributes  
+Ls Options
+ls -a  
+ls -l  
+ls-d*/  
+ls-n 
+  
+5. What is proxy server? How to use squid in Linux for creating proxy server? 
+ 
+6. Perform & write the steps to install NFS File  Server 
+
+7. Explain following sudo commands in Linux and give its description and syntax in table format.       
+ -V   -l   -h or -help   -k   -a   
+
+8. State use of following commands with example      
+m𝒂𝒏,𝒖𝒏𝒂𝒎𝒆,𝒘𝒉𝒐,𝒊𝒅,𝒘𝒓𝒊𝒕𝒆,
+         
+9. Perform & Write installation steps of  DNS server  
+    
+10. Write any five directory command.       
+       
+11 . State use of following commands with example                
+g𝒓𝒆𝒑,𝒎𝒂𝒏,𝒘𝒉𝒐,𝒘𝒄,𝒆𝒄𝒉𝒐     
+
+12. Explain following Linux File Commands and its function in a table format     
+file -s  
+file *  
+file /directory name/*  
+file [range]*  
+
+13. Explain key difference between GRUB and LILO in Linux ?   
+
+14. Write the configuration for accessing data from Linux machine.    
+
+15. Write Configuration steps of caching DNS server      
+
+16. Explain Managing accounts and groups.?  
